@@ -352,13 +352,13 @@ template {
 /* my--css!! */
 
 .header {
-  background: #555 url();
+  background: #555 url(../img/a.jpg);
   min-height: 400px;
 }
 
 .header nav{
   /* min-height: 50px; */
-  background-color: #777;
+  /* background-color: #777; */
 }
 .header nav::after{
   content: "";
